@@ -1,0 +1,35 @@
+{
+  "name": "rethink-koa",
+  "version": "0.0.0",
+  "description": "This is a sample app based on RethinkDB, Node.js, Koa framework and socket.io.",
+  "main": "server.js",
+  "dependencies": {
+    "koa": "^0.21.0",
+    "koa-static": "^1.4.9",
+    "lodash": "^3.10.1",
+    "marko": "^2.7.13",
+    "rethinkdbdash": "^2.1.6",
+    "socket.io": "^1.3.6"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NiveditN/rethink-koa.git"
+  },
+  "keywords": [
+    "RethinkDB",
+    "Node.js",
+    "Koa",
+    "socket.io"
+  ],
+  "author": "NiveditN",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NiveditN/rethink-koa/issues"
+  },
+  "homepage": "https://github.com/NiveditN/rethink-koa#readme"
+}
